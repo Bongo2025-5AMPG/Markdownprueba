@@ -55,7 +55,7 @@ print("Hola Markdown")
 [Google](https://google.com)
 
 #Ejemplo de imagen
-![Imagen](https://via.placeholder.com/150)
+![Imagen]([https://via.placeholder.com/150](https://store.line.me/stickershop/product/26784406/en))
 
 #Ejemplo de tabla
 | Nombre | Edad |
