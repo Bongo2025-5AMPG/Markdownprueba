@@ -18,36 +18,50 @@
 
 ### Ejemplos
 
+#Ejemplo de titulos
 # Título 1 
 ## Título 2
 ### Título 3
 #### Título 4
 
-
+#Ejemplo de negritas
 **Negrita**
+
+#Ejemplo de cursivas
 *Cursiva*
+
+#Ejemplo de texto tachado
 ~~Tachado~~
 
+#Ejemplo de bloque de codigo
 ```python
 # Bloque de código
 print("Hola Markdown")
+```
 
+#Ejemplo de cita
 > Esto es una cita
 
-
+#Ejemplo de lista
 1. Primer elemento
 2. Segundo elemento
 
+#Ejemplo de lista en viñetas
+- Manzana
+- Plátano
+- Naranja
 
+#Ejemplo de url
 [Google](https://google.com)
 
+#Ejemplo de imagen
 ![Ejemplo](https://via.placeholder.com/150)
 
-
+#Ejemplo de tabla
 | Nombre | Edad |
 |--------|------|
 | Ana    | 25   |
 | Luis   | 30   |
 
-
+#Ejemplo de separador
 ---
