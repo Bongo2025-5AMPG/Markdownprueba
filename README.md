@@ -11,11 +11,8 @@ markdown
 *Cursiva*
 ~~Tachado~~
 
-
-`Código en línea`
-
 ```python
- Bloque de código
+# Bloque de código
 print("Hola Markdown")
 
 > Esto es una cita
