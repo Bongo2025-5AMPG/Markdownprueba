@@ -55,7 +55,7 @@ print("Hola Markdown")
 [Google](https://google.com)
 
 #Ejemplo de imagen
-![Ejemplo](https://via.placeholder.com/150)
+![Imagen](https://via.placeholder.com/150)
 
 #Ejemplo de tabla
 | Nombre | Edad |
