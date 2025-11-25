@@ -1,7 +1,7 @@
 # Markdownprueba
 markdown 
 
-### Comentarios sobre sintaxis Markdown
+### Comandos para Markdown
 
 - `#` Se utiliza para títulos o encabezados. Entre más `#`, más pequeño el título.
 - `**texto**` Se utiliza para el texto en **negrita**.
@@ -17,6 +17,7 @@ markdown
 - `| ... | ... |` Se usa para crear tablas con filas y columnas.
 - `---` Inserta una línea horizontal como separador.
 
+### Ejemplos
 
 # Título 1 
 ## Título 2
